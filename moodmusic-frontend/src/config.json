@@ -1,0 +1,14 @@
+{
+    "development": {
+        "FRONTEND_URL": "http://localhost:3000",
+        "BACKEND_URL": "http://localhost:1200",
+        "DEEPFACE_URL": "http://3.237.21.157:5000/",
+        "SPOTIFY_URL": "https://api.spotify.com/v1"
+    },
+    "production": {
+        "FRONTEND_URL": "http://localhost:3000",
+        "BACKEND_URL": "http://localhost:1200",
+        "DEEPFACE_URL": "http://3.237.21.157:5000/",
+        "SPOTIFY_URL": "https://api.spotify.com/v1"
+    }
+}
