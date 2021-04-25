@@ -28,7 +28,7 @@ const TheSidebar = () => {
       onShowChange={(val) => dispatch({type: 'set', sidebarShow: val })}
     >
       <CSidebarBrand   className="d-md-down-none" to="/">
-        <h3 className="c-sidebar-brand-full">MoodMusic</h3>
+        <h3 className="c-sidebar-brand-full">Moodify</h3>
         <h3 className="c-sidebar-brand-minimized">MM</h3>
       </CSidebarBrand>
       <CSidebarNav>

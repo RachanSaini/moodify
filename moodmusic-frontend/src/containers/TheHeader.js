@@ -11,7 +11,7 @@ const TheHeader = () => {
     <CHeader>
 
       <CHeaderBrand className="mx-auto" to="/">
-        <h1>MoodMusic</h1>
+        <h1>Moodify</h1>
       </CHeaderBrand>
 
      

@@ -54,7 +54,7 @@ const Login = (props) => {
               <CCard className="p-4">
                 <CCardBody>
                   <CForm className="text-center">
-                    <h1>MoodMusic</h1>
+                    <h1>Moodify</h1>
                     <p className="text-muted">Authentication </p>
                     <CButton onClick={authHandler} color="success" variant="outline" size="lg" className="px-4">Login with Spotify  <RiSpotifyLine size={50} /></CButton>
                   </CForm>
